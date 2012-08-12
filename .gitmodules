@@ -1,0 +1,6 @@
+[submodule "LibA"]
+	path = LibA
+	url = git@github.com:danielctull-tests/LibA.git
+[submodule "LibB"]
+	path = LibB
+	url = git@github.com:danielctull-tests/LibB.git

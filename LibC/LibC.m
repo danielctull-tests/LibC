@@ -7,6 +7,7 @@
 //
 
 #import "LibC.h"
+#import <LibA/LibA.h>
 
 @implementation LibC
 
